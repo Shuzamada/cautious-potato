@@ -1,14 +1,19 @@
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class ItemDroped : MonoBehaviour
 {
 
     public int count = 1;
     public int maxCount = 64;
+    public string name;
+    public Text text;
 
     void Start()
     {
         // Инициализация объекта, если необходимо
+        text.text = name + " " + count.ToString();
         Debug.Log("ItemDroped initialized with count: " + count);
     }
 
@@ -18,6 +23,10 @@ public class ItemDroped : MonoBehaviour
         if (collision.gameObject.CompareTag("Item"))
         {
             var other = collision.gameObject.GetComponent<ItemDroped>();
+            if (other.name != name)
+            {
+                return;
+            }
             int colisionCount = other.count;
             if (colisionCount + count > maxCount)
             {
@@ -35,8 +44,12 @@ public class ItemDroped : MonoBehaviour
                     Debug.Log("Merged item with count: " + other.count);
                 }
                 
-            }
-           
+            }          
         }
+    }
+    
+    void OnMouseEnter()
+    {
+         text.text = name + " " + count.ToString();
     }
 }

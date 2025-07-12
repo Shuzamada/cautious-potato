@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7359784535605915944}
   - component: {fileID: 4902353813974125487}
   - component: {fileID: 1315464946318423671}
-  - component: {fileID: -3182463175861990863}
+  - component: {fileID: 6929753332311957237}
   m_Layer: 0
   m_Name: Diamond
   m_TagString: Item
@@ -186,7 +186,7 @@ PolygonCollider2D:
       - {x: 1.41, y: -1.25}
       - {x: 1.41, y: -1.11}
   m_UseDelaunayMesh: 0
---- !u!114 &-3182463175861990863
+--- !u!114 &6929753332311957237
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -198,6 +198,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e160b8d5cc228044084c72917e1c3c3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 0}
   count: 1
-  maxCount: 64
+  maxCount: 4
+  name: Diamond
+  popupTextObject: {fileID: 938699398916449691}
