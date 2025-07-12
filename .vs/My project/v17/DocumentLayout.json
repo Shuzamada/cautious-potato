@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Games\\my\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\my\\My project\\Assets\\Scripts\\NewGameButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NewGameButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\my\\My project\\Assets\\Scripts\\ItemDroped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ItemDroped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewGameButton.cs",
+              "DocumentMoniker": "C:\\Games\\my\\My project\\Assets\\Scripts\\NewGameButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewGameButton.cs",
+              "ToolTip": "C:\\Games\\my\\My project\\Assets\\Scripts\\NewGameButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewGameButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:08:38.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ItemDroped.cs",
               "DocumentMoniker": "C:\\Games\\my\\My project\\Assets\\Scripts\\ItemDroped.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemDroped.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IslandDestructible.cs",
               "DocumentMoniker": "C:\\Games\\my\\My project\\Assets\\Scripts\\IslandDestructible.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IslandDestructible.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Assets\\Scripts\\IslandDestructible.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T19:00:37.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T19:00:37.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Games\\my\\My project\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:58:49.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T09:58:49.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Games\\my\\My project\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:47:58.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T09:47:58.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeaponController.cs",
               "DocumentMoniker": "C:\\Games\\my\\My project\\Assets\\Scripts\\WeaponController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponController.cs",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "Assets\\Scripts\\WeaponController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T20:51:34.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T20:51:34.458Z"
             }
           ]
         }
